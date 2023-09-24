@@ -1,4 +1,4 @@
 const user = {
   name: 'Saeed',
-  age: 24:
+  age: 24,
 }
